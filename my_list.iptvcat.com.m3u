@@ -5710,7 +5710,7 @@ http://192.168.1.7:8409/iptv/channel/9.m3u8
 #EXTINF:0 tvg-id="C10.193.ersatztv.org" channel-id="sRg-HMpRc0qyAW2B3ZrGbw" channel-number="10" CUID="sRg-HMpRc0qyAW2B3ZrGbw" tvg-chno="10" tvg-name="Lupin - Il principe dei ladri Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Lupin+-+Il+principe+dei+ladri+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Lupin - Il principe dei ladri Channel 24/7
 http://192.168.1.7:8409/iptv/channel/10.m3u8
 #EXTINF:0 tvg-id="C11.194.ersatztv.org" channel-id="Z6RqJbsSD0iCad2IP2cQlQ" channel-number="11" CUID="Z6RqJbsSD0iCad2IP2cQlQ" tvg-chno="11" tvg-name="MTV music video 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=MTV+music+video+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MTV music video 24/7
-http://1192.168.1.7:8409/iptv/channel/11.m3u8
+http://192.168.1.7:8409/iptv/channel/11.m3u8
 #EXTINF:0 tvg-id="C12.195.ersatztv.org" channel-id="oQzdlKcqFEavf7Z3S_I-Cg" channel-number="12" CUID="oQzdlKcqFEavf7Z3S_I-Cg" tvg-chno="12" tvg-name="Musica video skate 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Musica+video+skate+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Musica video skate 24/7
 http://192.168.1.7:8409/iptv/channel/12.m3u8
 
