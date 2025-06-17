@@ -5687,31 +5687,31 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
 
 
-#EXTM3U url-tvg="http://192.168.1.9:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
+#EXTM3U url-tvg="http://192.168.1.2:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="r1Oc0j52Z06LWQ6-ggigRg" channel-number="1" CUID="r1Oc0j52Z06LWQ6-ggigRg" tvg-chno="1" tvg-name="Harry Potter Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Harry+Potter+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Harry Potter Channel 24/7
-http://192.168.1.9:8409/iptv/channel/1.m3u8
+http://192.168.1.2:8409/iptv/channel/1.m3u8
 #EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="PSTscHOSRE6JE2Z8E24JEw" channel-number="2" CUID="PSTscHOSRE6JE2Z8E24JEw" tvg-chno="2" tvg-name="I soliti idioti Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=I+soliti+idioti+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", I soliti idioti Channel 24/7
-http://192.168.1.9:8409/iptv/channel/2.m3u8
+http://192.168.1.2:8409/iptv/channel/2.m3u8
 #EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="YeQgqOiUf0ugbEzlhUGSyw" channel-number="3" CUID="YeQgqOiUf0ugbEzlhUGSyw" tvg-chno="3" tvg-name="Ritorno al futuro Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Ritorno+al+futuro+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Ritorno al futuro Channel 24/7
-http://192.168.1.9:8409/iptv/channel/3.m3u8
+http://192.168.1.2:8409/iptv/channel/3.m3u8
 #EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="FZPoPnz44EC5Q1lCuXRaLA" channel-number="4" CUID="FZPoPnz44EC5Q1lCuXRaLA" tvg-chno="4" tvg-name="Indiana Jones Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Indiana+Jones+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Indiana Jones Channel 24/7
-http://192.168.1.9:8409/iptv/channel/4.m3u8
+http://192.168.1.2:8409/iptv/channel/4.m3u8
 #EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="26jkfd0kqEm2y0FpxelmOw" channel-number="5" CUID="26jkfd0kqEm2y0FpxelmOw" tvg-chno="5" tvg-name="Men in Black Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Men+in+Black+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Men in Black Channel 24/7
-http://192.168.1.9:8409/iptv/channel/5.m3u8
+http://192.168.1.2:8409/iptv/channel/5.m3u8
 #EXTINF:0 tvg-id="C6.150.ersatztv.org" channel-id="8iBhypIrnU2Tg6nW3TJplw" channel-number="6" CUID="8iBhypIrnU2Tg6nW3TJplw" tvg-chno="6" tvg-name="Batman Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Batman+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Batman Channel 24/7
-http://192.168.1.9:8409/iptv/channel/6.m3u8
+http://192.168.1.2:8409/iptv/channel/6.m3u8
 #EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="OUEUYJ088kqTQc1Ccjq2oA" channel-number="7" CUID="OUEUYJ088kqTQc1Ccjq2oA" tvg-chno="7" tvg-name="Dragon Ball Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Dragon+Ball+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Dragon Ball Channel 24/7
-http://192.168.1.9:8409/iptv/channel/7.m3u8
+http://192.168.1.2:8409/iptv/channel/7.m3u8
 #EXTINF:0 tvg-id="C8.152.ersatztv.org" channel-id="aCIfr_AqA06zu60KR71Vhw" channel-number="8" CUID="aCIfr_AqA06zu60KR71Vhw" tvg-chno="8" tvg-name="Tom&Jerry Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Tom%26Jerry+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Tom&Jerry Channel 24/7
-http://192.168.1.9:8409/iptv/channel/8.m3u8
+http://192.168.1.2:8409/iptv/channel/8.m3u8
 #EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="ZRwFAh0360Wu_5zcTQpcxg" channel-number="9" CUID="ZRwFAh0360Wu_5zcTQpcxg" tvg-chno="9" tvg-name="Siamo fatti così Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Siamo+fatti+cos%C3%AC+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Siamo fatti così Channel 24/7
-http://192.168.1.9:8409/iptv/channel/9.m3u8
+http://192.168.1.2:8409/iptv/channel/9.m3u8
 #EXTINF:0 tvg-id="C10.193.ersatztv.org" channel-id="sRg-HMpRc0qyAW2B3ZrGbw" channel-number="10" CUID="sRg-HMpRc0qyAW2B3ZrGbw" tvg-chno="10" tvg-name="Lupin - Il principe dei ladri Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Lupin+-+Il+principe+dei+ladri+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Lupin - Il principe dei ladri Channel 24/7
-http://192.168.1.9:8409/iptv/channel/10.m3u8
+http://192.168.1.2:8409/iptv/channel/10.m3u8
 #EXTINF:0 tvg-id="C11.194.ersatztv.org" channel-id="Z6RqJbsSD0iCad2IP2cQlQ" channel-number="11" CUID="Z6RqJbsSD0iCad2IP2cQlQ" tvg-chno="11" tvg-name="MTV music video 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=MTV+music+video+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MTV music video 24/7
-http://192.168.1.9:8409/iptv/channel/11.m3u8
+http://192.168.1.2:8409/iptv/channel/11.m3u8
 #EXTINF:0 tvg-id="C12.195.ersatztv.org" channel-id="oQzdlKcqFEavf7Z3S_I-Cg" channel-number="12" CUID="oQzdlKcqFEavf7Z3S_I-Cg" tvg-chno="12" tvg-name="Musica video skate 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Musica+video+skate+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Musica video skate 24/7
-http://192.168.1.9:8409/iptv/channel/12.m3u8
+http://192.168.1.2:8409/iptv/channel/12.m3u8
 
 
 #EXTM3U
