@@ -1,26 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="🇮🇹 ITALIA", ITALIA
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png",Rai 1
+#EXTINF:-1 group-title=" ITALIA", ITALIA
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png", Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png",Rai 2 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png", Rai 2 
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png", Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" , Rete 4
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" , Canale 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png", Rete 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png", Canale 5
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" , Italia 1
+#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png", Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" , LA7
-https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png", LA7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" ,", TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" ,", NOVE
-https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title=", Ètv Bologna
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 #EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title=", TRC Modena
@@ -158,7 +159,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/supertennis.png" ,Alma Tv
 https://almatv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
 #EXTINF:-1 , France 24
-https://new.cache-stream.workers.dev/stream/l8PMl7tUDIE/live.m3u8
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="Informazione italiana"
 #EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title="Informazione italiana", Camera Dei Deputati
@@ -1947,7 +1948,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇬🇧 Gran Bretagna", U.K.
+#EXTINF:-1 group-title=" Gran Bretagna", U.K.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" user-agent="Star Wars",CNN INT
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 
@@ -2079,27 +2080,27 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇨🇭 SVIZZERA", SVIZZERA
+#EXTINF:-1 group-title=" SVIZZERA", SVIZZERA
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="🇱🇺 LUSSEMURGO", LUSSEMURGO
+#EXTINF:-1 group-title=" LUSSEMURGO", LUSSEMURGO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VprDD5J/rtllux.png",RTL LUX
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="🇭🇷 CROAZIA", CROAZIA
+#EXTINF:-1 group-title=" CROAZIA", CROAZIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png",RTL HR
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇷🇸 SERBIA", SERBIA
+#EXTINF:-1 group-title=" SERBIA", SERBIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK
 https://live.rednet.rs/providus/pink1.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="🇷🇴 ROMANIA", ROMANIA
+#EXTINF:-1 group-title=" ROMANIA", ROMANIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INT
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 RO
@@ -2110,7 +2111,7 @@ https://stream1.kanald.ro/iphone/knd-live.m3u8
 https://stream2.kanald.ro/iphone/knd-live.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="🇷🇴 MOLDAVIA", MOLDAVIA
+#EXTINF:-1 group-title=" MOLDAVIA", MOLDAVIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjgkLjq/md1.png",MOLDOVA 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wz954nZ/md2.png",MOLDOVA 2
@@ -2118,7 +2119,7 @@ https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b4
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇩🇪 GERMANIA", GERMANIA
+#EXTINF:-1 group-title=" GERMANIA", GERMANIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h8h2d5Q/tag24.png",TAGESSCHAU 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
@@ -2151,7 +2152,7 @@ https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇬🇪 GEORGIA", GEORGIA
+#EXTINF:-1 group-title=" GEORGIA", GEORGIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 1TV პირველი არხი
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 2TV
@@ -2188,7 +2189,7 @@ http://str.yodacdn.net/medeniyyet/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇫🇷 FRANCIA", FRANCIA
+#EXTINF:-1 group-title=" FRANCIA", FRANCIA
 #EXTINF:0 tvg-country="US" tvg-logo="" , BFM
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" ,CNEWS
@@ -2202,7 +2203,7 @@ https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" ,TV5MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" ,FRANCE 24 FR
-https://new.cache-stream.workers.dev/stream/l8PMl7tUDIE/live.m3u8
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png" ,LCP-AN
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/LCP.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jG942b/publicsn.png" ,PUBLIC-SÉNAT
@@ -2653,7 +2654,7 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇲🇨 MONACO", MONACO
+#EXTINF:-1 group-title=" MONACO", MONACO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg" ,TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png" group-title="RADIO FRANCESE" ,BEL RTL
@@ -2684,7 +2685,7 @@ https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇪🇸 SPAGNA", SPAGNA
+#EXTINF:-1 group-title=" SPAGNA", SPAGNA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png",TVE INTERNACIONAL
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png",TVE INTERNACIONAL
@@ -3086,7 +3087,7 @@ https://video-auth2.iol.pt/edge_servers/tvireality-720_passthrough/playlist.m3u8
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion7y/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="🇬🇷 GRECIA", GRECIA
+#EXTINF:-1 group-title=" GRECIA", GRECIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT NEWS
@@ -3221,7 +3222,7 @@ https://ertflix.s.llnwi.net/ertlive/rik/default/index.mpd
 https://ertflix.s.llnwi.net/ertlive/rik/default/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="🇨🇦 CANADA", CANADA
+#EXTINF:-1 group-title=" CANADA", CANADA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png",SAVOIR.MÉDIA
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFr5pYb/telequebec.png",TÉLÉ QUÉBEC
@@ -3233,7 +3234,7 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇺🇸 U.S.A", U.S.A.
+#EXTINF:-1 group-title=" U.S.A", U.S.A.
 #EXTINF:0 tvg-country="US" , === U.S.A ===
 #EXTINF:0 tvg-country="US" tvg-logo="" , CBS News
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58486
@@ -3407,7 +3408,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65732
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65735
 
 #EXTM3U
-#EXTINF:-1 group-title=" 🇮🇷 IRAN", IRAN
+#EXTINF:-1 group-title=" IRAN", IRAN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png",IRIB 1
 https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png",IRIB 2
@@ -3552,7 +3553,7 @@ https://ncdn.telewebion.com/tv5/live/playlist.m3u8
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
 
 #EXTM3U
-#EXTINF:0 group-title="🟥⬜️☀️🟩 󠁩KURDISTAN󠁲󠀱󠀶󠁿 ", KURDISTAN
+#EXTINF:0 group-title=" 󠁩KURDISTAN󠁲󠀱󠀶󠁿 ", KURDISTAN
 #EXTINF:0,K24
 https://d1x82nydcxndze.cloudfront.net/live/index_360p25.m3u8
 #EXTINF:0,rudawtv
@@ -3686,7 +3687,7 @@ http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist_w1921995643.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇹🇷 󠁩TURCHIA", TURCHIA
+#EXTINF:-1 group-title=" 󠁩TURCHIA", TURCHIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png",TRT TÜRK
@@ -4784,7 +4785,7 @@ http://cihan.dwasat.com/upload/images/cihanhd.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇲🇦 󠁩󠁲󠀱󠀶󠁿  MAGHREB", MAGHREB
+#EXTINF:-1 group-title=" 󠁩󠁲󠀱󠀶󠁿  MAGHREB", MAGHREB
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" referer="https://snrtlive.ma/",AL AOULA LAÂYOUNE الأولى
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" referer="https://snrtlive.ma/",Al AOULA INT الأولى
@@ -4934,7 +4935,7 @@ https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇸🇦 󠁩󠁲󠀱󠀶󠁿  ARABIA", ARABIA
+#EXTINF:-1 group-title=" 󠁩󠁲󠀱󠀶󠁿  ARABIA", ARABIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png",MBC 1
@@ -5538,7 +5539,7 @@ http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTM3U
-#EXTINF:-1 group-title="🇮🇱 󠁩󠁲󠀱󠀶󠁿 ISRAELE", ISRAELE
+#EXTINF:-1 group-title=" 󠁩󠁲󠀱󠀶󠁿 ISRAELE", ISRAELE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 כאן
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 sub-cc כאן
@@ -5686,7 +5687,6 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png",NEWS 12 חדשות [mako-src/offline]
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
 
-
 #EXTM3U url-tvg="http://192.168.1.2:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="r1Oc0j52Z06LWQ6-ggigRg" channel-number="1" CUID="r1Oc0j52Z06LWQ6-ggigRg" tvg-chno="1" tvg-name="Harry Potter Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Harry+Potter+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Harry Potter Channel 24/7
 http://192.168.1.2:8409/iptv/channel/1.m3u8
@@ -5712,6 +5712,8 @@ http://192.168.1.2:8409/iptv/channel/10.m3u8
 http://192.168.1.2:8409/iptv/channel/11.m3u8
 #EXTINF:0 tvg-id="C12.195.ersatztv.org" channel-id="oQzdlKcqFEavf7Z3S_I-Cg" channel-number="12" CUID="oQzdlKcqFEavf7Z3S_I-Cg" tvg-chno="12" tvg-name="Musica video skate 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Musica+video+skate+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Musica video skate 24/7
 http://192.168.1.2:8409/iptv/channel/12.m3u8
+
+
 
 
 #EXTM3U
